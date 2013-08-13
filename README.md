@@ -1,4 +1,4 @@
 ColdStorage
 ===========
 
-TNO Amazon Galcier Client
+TNO Amazon Glacier Client
